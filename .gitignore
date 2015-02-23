@@ -1,0 +1,4 @@
+/bin/
+.directory
+dist/ShallowBlue.jar
+dist/xboard.debug
