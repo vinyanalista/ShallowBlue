@@ -56,7 +56,7 @@ public class InterfaceServidor extends JFrame {
 		switch (botaoClicado) {
 		case 2:
 			porta = JOptionPane
-					.showInputDialog("Informe o endereço do servidor:");
+					.showInputDialog("Informe a porta do servidor:");
 			if (porta == null) {
 				return;
 			}
